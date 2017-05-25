@@ -2,7 +2,7 @@
 layout: post
 title:  "Python 文件操作-总结"
 date:   2017-04-15 15:57:08 +0800
-categories: tonychiu update
+categories: python file
 ---
 
 # Author: Tony Chiu

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Working with CloudForms Automate"
+title:  "Part Ⅰ.Working with CloudForms Automate"
 date:   2017-05-25 15:57:08 +0800
 categories: redhat cloudforms
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "parted分区报错"
+title:  "parted 分区报错"
 date:   2017-04-15 16:41:08 +0800
-categories: tonychiu upload
+categories: linux 
 ---
 
 # Author: Tony Chiu
