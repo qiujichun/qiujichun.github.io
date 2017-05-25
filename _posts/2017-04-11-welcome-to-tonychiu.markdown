@@ -9,6 +9,6 @@ categories: tonychiu update
 # Blog: http://www.chiushi.com
 # Github: https://github.com/qiujichun
 # Email: qiujichun@gmail.com
-# Official Accounts: 
+# Official Accounts: ![](http://i.imgur.com/d4Uh1kD.jpg)
 
 ![](http://i.imgur.com/IkzTIH1.jpg)
