@@ -1,0 +1,16 @@
+# Part Ⅰ.Working with CloudForms Automate #
+----------
+	
+
+## Chapter 1. CloudForms简介 ##
+Red HAT CloudForms作为一个云管平台在管理传统虚拟化产品（vSphere、RHEV）方面相当不错。它显著的能力是作为理想的混合云管理。
+
+尽管起初只是用作虚拟化和IaaS管理，但是在CloudForms4.0引进了对Docker容器的管理，包括Red Hat OpenShift Enterprise 3.x PaaS解决方案。
+![](http://i.imgur.com/a5UdUni.png)
+
+
+教程标题| 主要内容
+-------|----------
+关于Markdown | 简介Markdown，Markdown的优缺点
+Markdown基础 | Markdown的**基本语法**，格式化文本、代码、列表、链接和图片、分割线、转义符等
+Markdown表格和公式 | Markdown的**扩展语法**，表格、公式
