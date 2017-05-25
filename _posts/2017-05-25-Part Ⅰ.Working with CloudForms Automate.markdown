@@ -1,6 +1,18 @@
 # Part Ⅰ.Working with CloudForms Automate #
 ----------
 	
+---
+layout: post
+title:  "Working with CloudForms Automate"
+date:   2017-05-25 15:34:08 +0800
+categories: tonychiu update
+---
+
+# Author: Tony Chiu
+# Blog: http://www.chiushi.com
+# Github: https://github.com/qiujichun
+# Email: qiujichun@gmail.com
+# Official Accounts: ![](http://i.imgur.com/d4Uh1kD.jpg)
 
 ## Chapter 1. CloudForms简介 ##
 Red HAT CloudForms作为一个云管平台在管理传统虚拟化产品（vSphere、RHEV）方面相当不错。它显著的能力是作为理想的混合云管理。
